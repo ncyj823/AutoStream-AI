@@ -1,0 +1,65 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that helps YouTube, Instagram, and TikTok creators automate their video editing workflow using AI — from auto-cuts and transitions to AI-generated captions."
+  },
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price_monthly": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution export",
+        "Auto-cut and trim",
+        "Basic transitions",
+        "Email support"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price_monthly": 79,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution export",
+        "AI-generated captions",
+        "Advanced transitions and effects",
+        "Priority 24/7 support",
+        "Team collaboration (up to 3 seats)",
+        "Custom branding / watermark removal"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "details": "No refunds are provided after 7 days of purchase. Refunds can be requested within the first 7 days by contacting support."
+    },
+    {
+      "topic": "Support",
+      "details": "24/7 support is available exclusively on the Pro plan. Basic plan users receive email support with a 24-hour response time."
+    },
+    {
+      "topic": "Cancellation",
+      "details": "You can cancel your subscription at any time. Access continues until the end of the current billing cycle."
+    },
+    {
+      "topic": "Free Trial",
+      "details": "A 7-day free trial is available for the Pro plan. No credit card required to start."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports export for YouTube, Instagram Reels, TikTok, and any custom resolution."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can switch plans at any time. Upgrades take effect immediately; downgrades apply at the next billing cycle."
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "There is no permanent free plan, but we offer a 7-day free trial on the Pro plan."
+    }
+  ]
+}
