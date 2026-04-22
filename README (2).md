@@ -28,7 +28,7 @@ cp .env.example .env
 
 Or export it directly:
 ```bash
-export GROQ_API_KEY=gsk_...
+export GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ### 3. Run the agent
