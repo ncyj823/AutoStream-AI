@@ -1,0 +1,64 @@
+{
+  "session_id": "3f14452c",
+  "timestamp": "2026-04-23T17:01:10.258474",
+  "lead_captured": true,
+  "lead": {
+    "name": "Nancy",
+    "email": "nancyjha24@gmail.com",
+    "platform": "YouTube"
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "content": "hii"
+    },
+    {
+      "role": "user",
+      "content": "hii"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Welcome to AutoStream. How can I assist you with our video editing tools today?"
+    },
+    {
+      "role": "user",
+      "content": "What's in the Pro plan?"
+    },
+    {
+      "role": "assistant",
+      "content": "The Pro plan is $79/month and includes unlimited videos, 4K resolution export, AI-generated captions, advanced transitions and effects, priority 24/7 support, and team collaboration for up to 3 seats. Since you showed interest in the Pro plan earlier, would you like to try our 7-day free trial?"
+    },
+    {
+      "role": "user",
+      "content": "I want to sign up for my YouTube channel"
+    },
+    {
+      "role": "assistant",
+      "content": "Awesome, let's get you set up! \ud83c\udf89 What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Nancy"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Nancy! What's your email address?"
+    },
+    {
+      "role": "user",
+      "content": "nancyjha24@gmail.com"
+    },
+    {
+      "role": "assistant",
+      "content": "And which platform do you primarily create for? (e.g. YouTube, Instagram, TikTok)"
+    },
+    {
+      "role": "user",
+      "content": "YouTube"
+    },
+    {
+      "role": "assistant",
+      "content": "You're all set, Nancy! \ud83d\ude80 Our team will reach out shortly to help you get started with AutoStream's Pro plan. Is there anything else I can help you with?"
+    }
+  ]
+}
