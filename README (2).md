@@ -14,7 +14,7 @@ git clone <your-repo-url>
 cd autostream-agent
 
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+source venv/bin/activate        
 
 pip install -r requirements.txt
 ```
@@ -23,12 +23,12 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# Open .env and paste your Groq API key
+
 ```
 
 Or export it directly:
 ```bash
-export GROQ_API_KEY=gsk_...
+export GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ### 3. Run the agent
